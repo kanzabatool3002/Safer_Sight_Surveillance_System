@@ -1,0 +1,17 @@
+.alert-table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+    background-color: #2c2c3e;
+  }
+  
+  .alert-table th, .alert-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #3a3a4e;
+  }
+  
+  .alert-table th {
+    background-color: #3a3a4e;
+  }
+  
